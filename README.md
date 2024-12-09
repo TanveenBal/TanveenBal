@@ -5,7 +5,7 @@ I’m a 4th year Computer Science and Engineering student at UC Irvine.
 Throughout my journey, I've built a variety of projects using different languages and frameworks. Feel free to dive into some of my work in AI, ML, Swift, HTML, CSS, JavaScript, Python, and more.
 
 ## 💻 Technologies & Tools
-<img src="https://skillicons.dev/icons?i=cpp,py,java,ts,js,aws,html,css,nodejs,flask,git,github,docker,postgres,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,nodejs,flask,fastapi,git,github,docker,postgres,vscode" />
 
 ## 📬 Connect with Me
 - **Email**: [tanveenbal@gmail.com](mailto:tanveenbalh@gmail.com)
