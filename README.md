@@ -10,6 +10,7 @@ Throughout my journey, I've built a variety of projects using different language
 ## 📬 Connect with Me
 - **Email**: [tanveenbal@gmail.com](mailto:tanveenbalh@gmail.com)
 - **Email**: [balt@uci.edu](mailto:balt@uci.edu)
+- **Linkedin**: [tanveenbal](https://www.linkedin.com/in/tanveenbal/)
 
 <!--
 **TanveenBal/TanveenBal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
