@@ -1,6 +1,6 @@
 # Hi, I'm Tanveen!
 
-I’m a 4th year Computer Science and Engineering student at UC Irvine.**
+I’m a 4th year Computer Science and Engineering student at UC Irvine.
 
 Throughout my journey, I've built a variety of projects using different languages and frameworks. Feel free to dive into some of my work in AI, ML, Swift, HTML, CSS, JavaScript, Python, and more.
 
