@@ -2,7 +2,7 @@
 
 I’m a 4th year Computer Science and Engineering student at UC Irvine.
 
-Throughout my journey, I've built a variety of projects using different languages and frameworks. Feel free to dive into some of my work in AI, ML, HTML, CSS, JavaScript, Python, and more.
+Throughout my journey, I've built a variety of projects using different languages and frameworks. Feel free to dive into some of my work in AI, ML, Fullstack, OOP, and more.
 
 ## 💻 Technologies & Tools
 <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,nodejs,flask,fastapi,git,postgres,vscode" />
