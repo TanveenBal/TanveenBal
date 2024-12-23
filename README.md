@@ -18,6 +18,8 @@ Throughout my journey, I've built a variety of projects using different language
 
 ## 💼 Previous Experience
 - Software Engineer Intern @ SimInsights | January 2025 — Present
+- Prompt Engineer @ Design and Partnership Lab | January 2025 — Present
+- Computer Vision & Autonomous Systems Research Assistant @ Drone Aviation Lab | September 2024 — Present
 - Software Engineer Intern @ Tomorrows AI | September 2024 — December 2024
 - Software Engineer Intern @ USI Netowrks | July 2024 — September 2024
 
