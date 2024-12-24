@@ -11,7 +11,7 @@ Throughout my journey, I've built a variety of projects using different language
 ## 💡 Previous Projects
 - [Minesweeper Deep Q Learning](https://github.com/TanveenBal/Minesweeper-Deep-Q-Learning): Implemented a reinforcement learning agent to play Minesweeper using Deep Q-Learning.
 - [Chess AI](https://github.com/TanveenBal/Chess-AI): Developed a Chess AI using minimax and alpha-beta pruning algorithms.
-- [Car Classyfier](https://github.com/TanveenBal/Car-Classyfier): Built a machine learning model and website to classify car brands and types.
+- [Car Classyfier](https://github.com/TanveenBal/Car-Classyfier): Built a machine learning model and website to classify car make, model, and style.
 - [Unbeatable Pong](https://github.com/TanveenBal/Unbeatable-Pong): Designed an unbeatable AI for the classic Pong game.
 - [ML Minesweeper](https://github.com/TanveenBal/ML-Minesweeper): Utilized supervised machine learning to understand complex patterns in Minesweeper.
 - [Music Box](https://github.com/TanveenBal/Music-Box): Created a embedded music player with dynamic playlist creation.
