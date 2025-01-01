@@ -24,7 +24,7 @@ Throughout my journey, I've built a variety of projects using different language
 - Software Engineer Intern @ USI Netowrks | July 2024 — September 2024
 
 ## 💻 Technologies & Tools
-<img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,nodejs,flask,fastapi,git,postgres,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,go,js,html,css,nodejs,react,flask,fastapi,git,postgres,vscode,tensorflow,figma,raspberrypi" />
 
 ## 📬 Connect with Me
 - **Personal Email**: [tanveenbal@gmail.com](mailto:tanveenbalh@gmail.com)
