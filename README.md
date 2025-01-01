@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="Github Collage Finished.gif" alt="Github Collage Finished">
+    <img src="Collage.gif" alt="Github Collage Finished">
 </div>
 
 # 👋 Hi, I'm Tanveen!
