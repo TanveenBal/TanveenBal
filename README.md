@@ -30,3 +30,4 @@ Throughout my journey, I've built a variety of projects using different language
 - **Personal Email**: [tanveenbal@gmail.com](mailto:tanveenbalh@gmail.com)
 - **School Email**: [balt@uci.edu](mailto:balt@uci.edu)
 - **LinkedIn**: [tanveenbal](https://www.linkedin.com/in/tanveenbal/)
+- **Portfolio**: [tanveenbal.com](https://www.tanveenbal.com/)
