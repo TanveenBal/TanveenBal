@@ -23,12 +23,14 @@ Throughout my journey, I've built a variety of projects using different language
 - Software Engineer Intern @ Tomorrows AI | September 2024 — December 2024
 - Software Engineer Intern @ USI Netowrks | July 2024 — September 2024
 
-## 💻 Technologies & Tools
-<img src="https://skillicons.dev/icons?i=c#" />
-<img src="https://skillicons.dev/icons?i=py,java,cpp,go,ts,js,html,css,nodejs,react,flask,fastapi,git,postgres,vscode,tensorflow,figma,raspberrypi" />
+## 🛠️ Programming Languages
+<img src="https://skillicons.dev/icons?i=py,java,cpp,c,cs,lua,js,ts,html,css,sql" />
 
-## 📬 Connect with Me
-- **Personal Email**: [tanveenbal@gmail.com](mailto:tanveenbalh@gmail.com)
-- **School Email**: [balt@uci.edu](mailto:balt@uci.edu)
-- **LinkedIn**: [tanveenbal](https://www.linkedin.com/in/tanveenbal/)
-- **Portfolio**: [tanveenbal.com](https://www.tanveenbal.com/)
+## ⚙️ Tools
+<img src="https://skillicons.dev/icons?i=flask,fastapi,react,django,nextjs,nodejs,prisma,vite,git,maven,docker,vim,aws,azure,tensorflow" />
+
+## 📬 connect with me
+- **personal email**: [tanveenbal@gmail.com](mailto:tanveenbalh@gmail.com)
+- **school email**: [balt@uci.edu](mailto:balt@uci.edu)
+- **linkedin**: [tanveenbal](https://www.linkedin.com/in/tanveenbal/)
+- **portfolio**: [tanveenbal.com](https://www.tanveenbal.com/)
