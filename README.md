@@ -27,7 +27,7 @@ Throughout my journey, I've built a variety of projects using different language
 <img src="https://skillicons.dev/icons?i=py,java,cpp,c,cs,lua,js,ts,html,css,sql" />
 
 ## ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=flask,fastapi,react,django,nextjs,nodejs,prisma,vite,git,maven,docker,nvim,aws,azure,tensorflow" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi,react,django,nextjs,nodejs,prisma,vite,git,maven,docker,neovim,aws,azure,tensorflow" />
 
 ## 📬 connect with me
 - **personal email**: [tanveenbal@gmail.com](mailto:tanveenbalh@gmail.com)
