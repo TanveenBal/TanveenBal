@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Tanveen!
 
-I'm a 4th-year Computer Science & Engineering student at UC Irvine, still emotionally recovering from my first merge conflict.
+I recently graduated with a Computer Science & Engineering at UC Irvine. Currently stuck rebasing a branch that branched off the wrong branch that was branched from main by mistake.
 
 By day, I write code and break things in increasingly elaborate ways. By night, I spend days configuring Neovim so I can code slightly faster.
 It only took me three weeks, two existential crises, and a plugin manager rabbit hole—but hey, my editor loads in 38 milliseconds now.
