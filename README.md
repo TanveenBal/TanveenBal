@@ -11,12 +11,12 @@ It only took me three weeks, two existential crises, and a plugin manager rabbit
 And yes, I am currently integrating AI-first edge-driven pipelines into a serverless full-duplex prompt orchestration layer. Please don’t ask what that means.
 
 ## 💡 Previous Projects
-- [Minesweeper Deep Q Learning](https://github.com/TanveenBal/Minesweeper-Deep-Q-Learning): Taught an AI to play Minesweeper by bribing it with rewards every time it didn't explode. Still took about 300,000 deaths before it got the gist—progress!
-- [Chess AI](https://github.com/TanveenBal/Chess-AI): I built a chess bot using minimax and alpha-beta pruning that consistently beats me. Still not sure if that means it's smart or I just suck at chess. Probably both.
-- [Car Classyfier](https://github.com/TanveenBal/Car-Classyfier): Built a model to identify car make, model, and style—because I personally can’t tell if that’s a Lamborghini or a really shiny 2008 Civic. Let the AI judge.
-- [Unbeatable Pong](https://github.com/TanveenBal/Unbeatable-Pong): Engineered a Pong AI that never misses, turns out, it’s way less fun when the opponent has perfect reaction time and zero empathy.
-- [ML Minesweeper](https://github.com/TanveenBal/ML-Minesweeper): Like my other Minesweeper AI, but instead of learning by repeatedly exploding, this one studied thousands of examples—basically went to school so it could also avoid instant death.
-- [Music Box](https://github.com/TanveenBal/Music-Box): Built a hardware music player with play, pause, and resume—basically Spotify, if it had no screen, ran on jumper wires, and absolutely was not Spotify.
+- [Minesweeper Deep Q Learning](https://github.com/TanveenBal/Minesweeper-Deep-Q-Learning):Trained an AI to stop stepping on mines. Took 300,000 deaths, but hey—progress!
+- [Chess AI](https://github.com/TanveenBal/Chess-AI): Made a bot that beats me at chess. I created it, so do I suck if I lose?
+- [Car Classyfier](https://github.com/TanveenBal/Car-Classyfier): ML model that IDs everything from Civics to Paganis, for when “nice car” isn’t specific enough.
+- [Unbeatable Pong](https://github.com/TanveenBal/Unbeatable-Pong): Built a Pong bot with perfect reflexes and zero chill.
+- [ML Minesweeper](https://github.com/TanveenBal/ML-Minesweeper): Trained on examples instead of explosions. More academic, less exploding.
+- [Music Box](https://github.com/TanveenBal/Music-Box): A Spotify-ish music player—no screen, no app, and mostly just... notes. Like, literal music notes.
 
 ## 💼 Previous Experience
 - Software Engineer Intern @ SimInsights, Irvine CA | January 2025 — Present
