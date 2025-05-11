@@ -25,13 +25,16 @@ And yes, I am currently integrating AI-first edge-driven pipelines into a server
 - Software Engineer Intern @ Tomorrows AI, Remote | September 2024 — December 2024
 - Software Engineer Intern @ USI Netowrks, Fremont CA | July 2024 — September 2024
 
-## 🛠️  Since knowing every language ever invented is the bare minimum for entry-level SWE jobs, I went ahead and learned all of these:
+## 🛠️ Programming Languages
+Since knowing every language ever is the entry-level standard, I went ahead and learned these:
 <img src="https://skillicons.dev/icons?i=py,java,cpp,c,cs,lua,js,ts,html,css,sql" />
 
-## ⚙️ I’ve mastered the sacred ritual of gluing random tools together until something deploys:
+## ⚙️ Tools
+I’ve mastered the ancient art of duct-taping tools until something deploys:
 <img src="https://skillicons.dev/icons?i=flask,fastapi,react,django,nextjs,nodejs,prisma,vite,git,maven,docker,neovim,aws,azure,tensorflow" />
 
-## 📬 Let’s link up before AI replaces us all (we're already just debugging it anyway):
+## 📬 Contacts
+Let’s link up before AI replaces us all (we're already just debugging it anyway):
 - **personal email**: [tanveenbal@gmail.com](mailto:tanveenbalh@gmail.com)
 - **school email**: [balt@uci.edu](mailto:balt@uci.edu)
 - **linkedin**: [tanveenbal](https://www.linkedin.com/in/tanveenbal/)
