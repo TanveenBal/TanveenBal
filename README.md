@@ -11,7 +11,7 @@ It only took me three weeks, two existential crises, and a plugin manager rabbit
 And yes, I am currently integrating AI-first edge-driven pipelines into a serverless full-duplex prompt orchestration layer. Please don’t ask what that means.
 
 ## 💡 Previous Projects
-- [Minesweeper Deep Q Learning](https://github.com/TanveenBal/Minesweeper-Deep-Q-Learning):Trained an AI to stop stepping on mines. Took 300,000 deaths, but hey—progress!
+- [Minesweeper Deep Q Learning](https://github.com/TanveenBal/Minesweeper-Deep-Q-Learning): Trained an AI to stop stepping on mines. Took 300,000+ tries, but hey... progress!
 - [Chess AI](https://github.com/TanveenBal/Chess-AI): Made a bot that beats me at chess. I created it, so do I suck if I lose?
 - [Car Classyfier](https://github.com/TanveenBal/Car-Classyfier): ML model that IDs everything from Civics to Paganis, for when “nice car” isn’t specific enough.
 - [Unbeatable Pong](https://github.com/TanveenBal/Unbeatable-Pong): Built a Pong bot with perfect reflexes and zero chill.
