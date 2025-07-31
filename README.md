@@ -7,7 +7,7 @@
 I recently graduated with a Computer Science & Engineering at UC Irvine. Currently stuck rebasing a branch that branched off the wrong branch that was branched from main by mistake.
 
 By day, I write code and break things in increasingly elaborate ways. By night, I spend days configuring Neovim so I can code slightly faster.
-It only took me three weeks, two existential crises, and a plugin manager rabbit hole—but hey, my editor loads in 38 milliseconds now.
+It only took me three weeks, two existential crises, and a plugin manager rabbit hole but hey, my editor loads in 38 milliseconds now.
 And yes, I am currently integrating AI-first edge-driven pipelines into a serverless full-duplex prompt orchestration layer. Please don’t ask what that means.
 
 ## 💡 Previous Projects
